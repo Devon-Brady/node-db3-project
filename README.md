@@ -101,3 +101,6 @@ The following endpoints are available to test the functionality of the model met
 Follow these steps for completing your project.
 
 - [ ] Submit to Canvas a pull request to merge `<firstName-lastName>` Branch into master (student's Repo). **Please don't merge your own pull request**
+
+
+Will finish this when I have time tomorrow or friday
